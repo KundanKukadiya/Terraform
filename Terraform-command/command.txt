@@ -1,0 +1,9 @@
+1. Terraform init
+2. Terraform plan
+3. Terraform apply
+4. Terraform destroy
+5. Terraform fmt
+6. Terraform plan -var-file=<vars file name>
+7. Terraform apply -var-file=<vars file name>
+8. Terraform apply -auto-approve
+9. Terraform destroy -auto-approve
